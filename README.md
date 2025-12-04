@@ -37,7 +37,7 @@ Each state controls:
 
 ## 📸 Prototype (Images Here)
 
-Add your hardware setup photos in `/images`.
+Flodian photo.PNG
 
 ---
 
