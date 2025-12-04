@@ -39,6 +39,10 @@ Each state controls:
 
 https://github.com/tullrest/Flood-Detection-System/blob/main/images/flodian_image.png
 
+## 🎥 Demo Video
+
+https://github.com/tullrest/Flood-Detection-System/blob/main/images/flodian%20prototype.mov
+
 ---
 
 ## 🛠️ Hardware Used
