@@ -37,7 +37,7 @@ Each state controls:
 
 ## 📸 Prototype (Images Here)
 
-
+![Flodian Prototype](images/flodian_photo.png)
 
 ---
 
