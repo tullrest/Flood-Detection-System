@@ -37,7 +37,6 @@ Each state controls:
 
 ## 📸 Prototype (Images Here)
 
-<img src="images/flodian_image.png" width="450">
 <img src="images/plc_ladder_logic_1.jpg" width="450">
 <img src="images/plc_ladder_logic_2.jpg" width="450">
 
